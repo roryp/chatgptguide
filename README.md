@@ -1,4 +1,8 @@
 # ChatGTP guide and demo
+In this guide, you will learn how to:
+
+Use ChatGPT, a powerful chatbot that can generate imaginative and innovative content using GPT-3.5 and GPT-4.
+Use ChatGPT plugins to enhance your chatbot experience with additional features and functionalities
 
 ## Demo - Using GPT3.5
 
