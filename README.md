@@ -1,4 +1,6 @@
-# Demo - Using GPT3.5
+# ChatGTP guide and demo
+
+## Demo - Using GPT3.5
 
 For each of these prompts, run the prompt and return each result:
 
@@ -12,18 +14,18 @@ For each of these prompts, run the prompt and return each result:
 - Write an email to my boss with the subject ‘Project Update’ and the purpose to inform him about the progress and challenges of the project. The deadline is next week and we encountered some technical issues.
 - Analyze the sentiment of this text using emojis: ‘I hate this chatbot.’
 
-# Demo - Using ChatGPT Plugins
+## Demo - Using ChatGPT Plugins
 
 1. Please retrieve the full transcript for the video available at https://www.youtube.com/watch?v=ZHHUZyy_fOo. Once the transcript is available, provide a summary of the main points in the form of bulleted points with an emoji at the beginning of each point. Additionally, please include clickable timestamps for each point, linking to the corresponding moments in the video.
 
-# Demo – ChatGPT Code Interpreter plugin
+## Demo – ChatGPT Code Interpreter plugin
 
 1. Could you please generate a basic Spring Boot Maven project for me, complete with a pom.xml file and a basic Spring Boot application in MyprojectApplication.java? Please zip the project structure into a file that I can download.
 2. Could you please generate a dataset with random countries and populations, create a DataFrame from this dataset using pandas, create some basic descriptive statistics, generate a plot using matplotlib, and then save this DataFrame to an Excel file using openpyxl? Also, create a bar chart in the Excel file for visualization. Generate a word cloud from countries and save it as a PNG image.
 - Convert this URL to a DOCX file and extract the text from it: https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
 - Scrape the headlines and links from this website and store them in a JSON file: https://www.bbc.com/news
 
-# Demo - Social (using edge browser and Bing conversation ai)
+## Demo - Social (using edge browser and Bing conversation ai)
 
 1. Create an image of a cute kitten.
 2. Find the most popular hashtags related to Microsoft on Twitter and Instagram.
@@ -31,7 +33,7 @@ For each of these prompts, run the prompt and return each result:
 4. Compare the performance of the hashtag #Microsoft across different social media platforms and report the number of posts, impressions, and engagements for each platform.
 
 
-# ChatGPT guide to Prompt Engineering
+## Prompt guide
  
 1.	Tone: Specify the desired tone (e.g., formal, casual, informative, persuasive).
 2.	Format: Define the format or structure (e.g., essay, bullet points, outline, dialogue).
