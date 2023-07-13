@@ -26,8 +26,8 @@ For each of these prompts, run the prompt and return each result:
 
 1. Could you please generate a basic Spring Boot Maven project for me, complete with a pom.xml file and a basic Spring Boot application in MyprojectApplication.java? Please zip the project structure into a file that I can download.
 2. Could you please generate a dataset with random countries and populations, create a DataFrame from this dataset using pandas, create some basic descriptive statistics, generate a plot using matplotlib, and then save this DataFrame to an Excel file using openpyxl? Also, create a bar chart in the Excel file for visualization. Generate a word cloud from countries and save it as a PNG image.
-- Convert this URL to a DOCX file and extract the text from it: https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
-- Scrape the headlines and links from this website and store them in a JSON file: https://www.bbc.com/news
+3. Convert this URL to a DOCX file and extract the text from it: https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
+4. Scrape the headlines and links from this website and store them in a JSON file: https://www.bbc.com/news
 
 ## Demo - Social (using edge browser and Bing conversation ai)
 
